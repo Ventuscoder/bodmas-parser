@@ -23,4 +23,7 @@ body {
     width: 50px;
     border-color: blue;
     border-radius: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: grey;
 }
