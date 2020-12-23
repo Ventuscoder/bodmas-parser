@@ -25,6 +25,11 @@ body {
     border-radius: 50%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
+    color: grey;
+}
+.help-btn:hover {
+    color: black;
+    cursor: pointer;
 }
 .hidden-container {
     display: none;
