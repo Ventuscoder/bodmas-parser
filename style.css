@@ -34,3 +34,12 @@ a:hover {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
 }
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+    font-size: 15px;
+}
+.back {
+    color: orangered;
+}
