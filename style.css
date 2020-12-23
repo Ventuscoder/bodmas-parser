@@ -1,6 +1,14 @@
 body {
     background-color: rgb(141, 226, 198);
 }
+a {
+    text-decoration: none;
+    color: grey;
+}
+a:hover {
+    color: black;
+    cursor: pointer;
+}
 .main-input-box {
     overflow-x: scroll;
     height: 100px;
@@ -25,15 +33,4 @@ body {
     border-radius: 50%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
-    color: grey;
-}
-.help-btn:hover {
-    color: black;
-    cursor: pointer;
-}
-.hidden-container {
-    display: none;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(128, 128, 128, 0.6);
 }
