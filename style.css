@@ -27,3 +27,7 @@ body {
     font-size: 30px;
     color: grey;
 }
+.help-btn:hover {
+    cursor: pointer;
+    color: black;
+}
