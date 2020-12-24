@@ -57,3 +57,17 @@ li {
 .success {
     color: green;
 }
+.eval-btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 60%;
+    left: 43%;
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
