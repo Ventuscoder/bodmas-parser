@@ -43,3 +43,17 @@ li {
 .back {
     color: orangered;
 }
+.res {
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 44%;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.err {
+    color: red;
+}
+.success {
+    color: green;
+}
